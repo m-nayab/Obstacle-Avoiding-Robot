@@ -4,6 +4,8 @@
 
 This project implements a simple obstacle-avoiding robot using an Arduino Uno. 
 
+Stimulation link : https://www.tinkercad.com/things/c0BM1bEe3EQ-obstacle-avoiding-car
+
 **2. Project Setup**
 
 1. **Hardware:** Assemble the robot using the provided components: Arduino Uno, motors, motor driver, ultrasonic sensor, chassis, wheels, and jumper wires.
