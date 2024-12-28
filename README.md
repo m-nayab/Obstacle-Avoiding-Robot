@@ -20,6 +20,8 @@ This project implements a simple obstacle-avoiding robot using an Arduino Uno.
 * **Actuators:** Motors, Motor Driver
 * **Other:** Chassis, Wheels, Jumper Wires
 
+![components](https://github.com/user-attachments/assets/f42f09ba-16b3-4977-8adb-6e634aab1b38)
+
 
 **4. Software**
 
